@@ -1,6 +1,6 @@
 # 🌱 the-java-spring-boot-plan
 
-A focused 2-week study roadmap designed to build and sharpen backend development skills with Java, Spring Boot, RESTful APIs, and cloud-native tools — all aligned with real-world job requirements.
+This study plan is designed to build and sharpen backend development skills with Java, Spring Boot, RESTful APIs, and cloud-native tools — all aligned with real-world job requirements.
 
 ## 📌 What's Inside?
 
